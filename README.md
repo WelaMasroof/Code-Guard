@@ -7,14 +7,14 @@ Code Guard is a comprehensive suite designed for log analysis and file encryptio
 
 ## Features
 
-- **Log Analysis**
+- Log Analysis
   - Counts the total number of lines in the log file.
   - Counts the number of errors and warnings.
   - Identifies and lists critical events.
   - Extracts and lists the top 5 most common error and warning messages.
   - Generates a summary report with the analysis results.
 
-- **Encryption and Decryption**
+- Encryption and Decryption
   - Encrypts files using AES-256-CBC encryption.
   - Decrypts files previously encrypted with AES-256-CBC.
   
